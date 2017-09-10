@@ -1,0 +1,23 @@
+User-agent: Twitterbot
+Allow: *
+
+User-agent: facebookexternalhit/1.1
+Allow: *
+
+User-agent: Facebot
+Allow: *
+
+User-agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Allow: *
+
+User-agent: Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)
+Allow: *
+
+User-agent: Slack-ImgProxy 0.19 (+https://api.slack.com/robots)
+Allow: *
+
+User-agent: Slackbot 1.0(+https://api.slack.com/robots)
+Allow: *
+
+User-agent: *
+Disallow: /

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.sketchrunner.Runner</key>
+	<string>0.9.1</string>
+	<key>com.invision.panels</key>
+	<string>1.0.18</string>
+	<key>com.heysketch.plugins.color-picker-plus</key>
+	<string>1.2.0</string>
+	<key>io.sympli.sympli-sketch</key>
+	<string>1.0.97</string>
+</dict>
+</plist>
